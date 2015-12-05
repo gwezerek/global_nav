@@ -1,0 +1,144 @@
+@media only screen and (max-width: 782px) {
+
+  .logo {
+    width: 16px !important;
+    background-position: 0 5px !important;
+    padding-right: 0px !important;
+    overflow: hidden !important;
+    img {
+      max-width: inherit !important;
+    }
+  }
+
+}
+
+@media screen and (max-width: 767px) {
+
+  #footer-navigation > div > ul > li,
+  #footer-social > div > ul > li {
+    display: block !important;
+    width: 100% !important;
+    margin-bottom: 0px !important;
+  }
+
+  #footer-navigation > div > ul > li a {
+    background-color: #F1F2F2 !important;
+    color: #939598 !important;
+    margin-bottom: 3px !important;
+  }
+
+  #colophon p {
+    font-size: 8px !important;
+  }
+
+  #footer-social > div > ul > li {
+    font-size: 9px !important;
+    display: block !important;
+    width: 50% !important;
+    float: left !important;
+    line-height: 17px !important;
+  }
+
+  #footer-social > div > ul > li a {
+    padding: 0.3em 0 !important;
+  }
+
+  #footer-social > div > ul > li:nth-child(2),
+  #footer-social > div > ul > li:first-child {
+    margin-top: 5.2em !important;
+    border-bottom: 1px solid #D1D3D4 !important;
+    margin-bottom: 5px !important;
+  }
+
+  #footer-social > div > ul > li:nth-child(2) a,
+  #footer-social > div > ul > li:first-child a {
+    margin-bottom: 5px !important;
+    margin-top: 5px !important;
+  }
+
+  #footer-social > div > ul > li:nth-child(3) {
+    position: absolute !important;
+    top: 0 !important;
+    width: 100% !important;
+    float: none !important;
+    border-bottom: 1px solid #D1D3D4 !important;
+    padding-bottom: 5px !important;
+  }
+
+  #footer-social > div > ul > li:first-child a,
+  #footer-social > div > ul > li:nth-child(4) a {
+    border-right: 1px solid #D1D3D4 !important;
+  }
+
+  .entry-footnotes h3,
+  #entry-comments h3,
+  .entry-comments h3 { 
+    font-size: .8em !important;
+  }
+
+  .entry-footnotes-content,
+  #entry-comments-content,
+  .mini-bio {
+    padding: 1em;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    #related {
+      h2 {
+        font-size: 16px !important;
+        line-height: 22px !important;
+      }
+    }
+  }
+
+@media only screen and (max-width: 767px) {
+  #related {
+      margin-bottom: 20px;
+      h2 {
+        margin-left: 120px !important;
+        font-size: 16px !important;
+        line-height: 22px !important;
+      }
+      h3 {
+        font-size: 0.9em !important;
+      }
+      .related {
+        clear: both;
+        width: 100% !important;
+        float: none !important;
+        &.four, &.five {
+          display: none;
+        }
+        &.one, &.two {
+          margin-bottom: 20px !important;
+          height: 70px;
+        }
+        &.two, &.three {
+          margin-left: 0 !important;
+        }
+        img {
+          width: 100px !important;
+          float: left !important;
+        }
+      }
+      .clearfix {
+        display: none;
+      }
+    }
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  #related {
+    h2 {
+      a {
+        font-size: 13px;
+      }
+      line-height: 17px !important;
+    }
+  }
+}
+

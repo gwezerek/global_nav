@@ -1,0 +1,67 @@
+/**
+*
+* Variables
+*
+**/
+
+
+/* ==========  Typefaces  ========== */
+
+$arnhem: ArnhemPro, Georgia, "Times New Roman", serif;
+$atlas: AtlasGrotesk, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$dec-mono: 'DecimaMonoPro', monospace;
+$dec: 'Decima', Helvetica, sans-serif;
+$icon: 'fte-icons';
+
+
+/* ==========  Breakpoints  ========== */
+
+$small: 320px;
+$medium: 600px;
+$large: 800px;
+$xLarge: 1000px;
+$huge: 1600px;
+
+
+/* ==========  Fonts  ========== */
+
+$fontTiny: 1rem;
+$fontSmaller: 1.2rem;
+$fontSmall: 1.4rem;
+$fontBase: 1.7rem;
+$fontLarge: 2rem;
+$fontLarger: 2.2rem ;
+$fontXLarge: 2.4rem;
+$fontXLarger: 3rem;
+$fontXXLarge: 3.5rem;
+$fontHuge: 5.5rem;
+
+
+/* ==========  Color  ========== */
+
+$backgroundGray: #f0f0f0;
+$gray: #3c3c3c;
+$lightGray: #999999;
+$gridGray: #cdcdcd;
+$lightestGray: rgb(249, 247, 245);
+
+$pureBlack: #000;
+$black: #3c3c3c;
+$white: #fff;
+
+$purple: #636;
+$green: #44ab43;
+$blue: #008fd5;
+$yellow: #f6b900;
+$red: #ff2700;
+$lightGreen: #bfd7a6;
+$linkBlue: #008fd5;
+$pureYellow: #ffff00;
+
+
+/* ==========  Layout  ========== */
+
+$baseSpace: 1rem;
+$maxTextWidth: $medium;
+$maxBodyWidth: $xLarge;
+

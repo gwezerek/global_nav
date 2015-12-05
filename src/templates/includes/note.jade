@@ -1,0 +1,34 @@
+if ( type === 'Barton Says' )
+	span.note.js--note
+		img(class="note__type__img" src="./images/type_icons_01.png")
+		h3.note__type.note__type--rhetoric
+			| #{type}
+		if img_src
+				img(class="note__img" src="./images/"+img_src+".png")
+		for paragraph in text
+			p.note__text.note__text--rhetoric!=paragraph
+		if source
+			p.note__source.note__text
+				| Source: 
+				if source_url
+					a(href=source_url, class='note__source note__source__link', target="_blank") 
+						| #{source}
+				else 
+					| #{source}
+else
+	span.note.js--note
+			img(class="note__type__img" src="./images/type_icons_02.png")
+			h3.note__type.note__type--data
+				| #{type}
+			if img_src
+					img(class="note__img" src="./images/"+img_src+".png")
+			for paragraph in text
+				p.note__text.note__text--data!=paragraph
+			if source
+				p.note__source.note__text
+					| Source: 
+					if source_url
+						a(href=source_url, class='note__source note__source__link', target="_blank") 
+							| #{source}
+					else 
+						| #{source}

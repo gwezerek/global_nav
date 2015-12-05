@@ -1,0 +1,587 @@
+{
+  "notes": [
+    {
+      "text": [
+        "Their-complication-versus-our-simplicity is always an effective theme in political speeches. It’s tired, sure, but it’s less annoying and probably less disingenuous than they-divide-whereas-we-unite."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [0, 1],
+      "on_by_default": true
+    },
+    {
+      "text": [
+        "Clearly, no one would actually say that. But American liberals have frequently been guilty of conveying supercilious attitudes on political questions, and this kind of rhetoric capitalizes on non-liberals’ unfavorable impression."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 0],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "78 percent of Republicans want a smaller government providing fewer services rather than a bigger government providing more services."
+      ],
+      "img_src": null,
+      "source": "2014 Pew Research Center poll",
+      "source_url": "http://www.pewforum.org/files/2014/09/Religion-Politics-09-24-PDF-for-web.pdf",
+      "type": "Data Point",
+      "nearby": [0, 0],
+      "on_by_default": true
+    },
+    {
+      "text": [
+        "Share of Republicans and Democrats who trust the government always or most of the time."
+      ],
+      "img_src": "enten-gop-speech-TRUST",
+      "source": "Pew Research Center",
+      "source_url": null,
+      "type": "Data Point",
+      "nearby": [0, 3],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "It’s important to state this line precisely. If you say, for example, that to understand these principles “you don’t need a degree from an Ivy League school,” you risk making your supporters sound stupid. Hence the narrower “latest trendy subject”: There are probably very few holders of degrees in Queer Theory in a typical GOP audience."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 2],
+      "on_by_default": true
+    },
+    {
+      "text": [
+        "Make sure to say “get your opinions” from the Times, not simply “read” the Times. Some of your listeners do read the Times."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-2, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Consider amending to “Northeast and West Coast intelligentsia” for locations not in the Northeast or on the West Coast."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "The seven issues that a majority of Republicans said were important to their presidential vote."
+      ],
+      "img_src": "enten-gop-speech-ISSUES",
+      "source": "2015 Gallup poll",
+      "source_url": "http://www.gallup.com/poll/183164/economy-trumps-foreign-affairs-key-2016-election-issue.aspx",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Sounds less clichéd than “common sense,” plus it has a religious component."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Share of Republicans who prefer smaller vs. bigger government."
+      ],
+      "img_src": "enten-gop-speech-GOVERNMENT-SIZE",
+      "source": "CBS News, ABC News, Washington Post",
+      "source_url": null,
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "The difficulty here is that, although there’s evidence that minimum-wage increases slow job growth and thus hurt the people they’re intended to help — low-end job seekers — it’s almost impossible to express opposition to minimum-wage increases without sounding either (a) wonkish and indecipherable or (b) unsympathetic to low-income workers, many of them potential GOP voters. A commentator can speak clearly on the topic; a politician cannot. Better to stick with the generalized “job-killer” language."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "38 percent of Republicans say the government should not raise the minimum wage “because it would cause businesses to cut jobs.” And 35 percent think “there shouldn’t be a minimum wage because government shouldn’t tell businesses what to pay their employees.”"
+      ],
+      "img_src": null,
+      "source": "2015 Fox News poll",
+      "source_url": "http://www.foxnews.com/politics/interactive/2015/04/22/click-here-to-read-poll-results/",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Depending on the audience, this may be too wonkish. You may need to say simply “it’s a job killer” here and move on."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+    "nearby": [-1, 1],
+    "on_by_default": false
+    },
+    {
+      "text": [
+        "Republican politicians sometimes try to avoid the word “poor”: “those in need,” “the neediest among us,” “the deserving poor,” etc. Good grief. Just say “the poor.” It’s more honest and sounds more humane."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "67 percent of Republicans say that to get “families who fall on hard times back on their feet again” it's better for them to rely on family, friends and charitable organizations rather than government programs."
+      ],
+      "img_src": null,
+      "source": "2013 Fox News poll",
+      "source_url": "http://www.foxnews.com/politics/interactive/2013/08/07/fox-news-poll-voters-express-skepticism-about-obama-government/",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Don’t say “business owners” or “company executives.” Make it more familiar, and pretend that every business is a small mom-and-pop struggling to keep the lights on."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Trade policy is a serious problem in a speech like this. The GOP is divided almost down the middle: 51 percent say free-trade agreements lead to job losses in the U.S., and 40 percent think they help or make no difference. The best thing to do here is (a) make quick rhetorical gestures in both directions, (b) blame the whole thing on unions, and (c) pretend the question is about whether the U.S. “can compete” with other countries. Also, instead of saying “protect” the American economy, say “safeguard.”"
+      ],
+      "img_src": null,
+      "source": "2015 Pew poll",
+      "source_url": "http://www.people-press.org/files/2015/05/5-27-15-Trade-release.pdf",
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "78 percent of Republicans say “the federal budget deficit is very important” to whom they will vote for in the 2016 presidential election."
+      ],
+      "img_src": null,
+      "source": "2015 Pew poll",
+      "source_url": "http://www.people-press.org/2015/10/02/contrasting-partisan-perspectives-on-campaign-2016/",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Technically, the argument was that the Affordable Care Act would reduce the budget deficit, not actually balance the budget. (Either way, the argument was bogus.) That’s why the word “help” is here: We were told Obamacare would help to balance the budget by reducing it."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "A “realistic approach” to government spending — and who can be against a realistic approach to anything? — will sound to many people like budget-cutting, small-government fiscal conservatism. But of course, it doesn’t have to be."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "You can, of course, “take a hard look” at anything."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "This is fast becoming one of the most overused clichés in American politics. It sounds like it means tough-love budget cutting or the elimination of programs that are costing too much, but it could just as easily imply some nebulous “addressing” of fiscal issues. It could, in short, mean anything."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "All this is true, but it won’t happen. Every politician — even President Obama — comes into office promising to cut needless programs. It never happens. But a Republican seeking the presidency would be a fool not to make this promise."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "68 percent of Republicans think the taxes they pay are too high."
+      ],
+      "img_src": null,
+      "source": "2015 Fox News poll",
+      "source_url": "http://www.foxnews.com/politics/interactive/2015/04/08/fox-news-poll-voters-say-government-is-problem-taxes-are-too-high/",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "You haven’t ruled out tax increases. You’ve only said you’ve got to cut government “first.”"
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "53 percent of Republicans favor raising taxes on people earning more than $1 million per year."
+      ],
+      "img_src": null,
+      "source": "2015 New York Times poll",
+      "source_url": "http://www.nytimes.com/interactive/2015/06/03/business/income-inequality-workers-rights-international-trade-poll.html",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Don’t say “taxes.” Sounds like you’d consider a tax hike. Say revenue."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Phrasing signals an aversion to raising taxes on anybody, without actually vowing not to raise taxes."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Sometimes there aren’t many opportunities for clarity in political speeches, so when they do arise — when there is no reason to hedge or hide behind vague language — announce your intention to be clear. Or, if you feel strongly about it, “absolutely clear.”"
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Only 4 percent of Republicans support the Iran nuclear deal."
+      ],
+      "img_src": null,
+      "source": "2015 Quinnipiac poll",
+      "source_url": "http://www.quinnipiac.edu/images/polling/us/us08312015_U67fgwt.pdf",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Share of Republicans who sympathize more with Israel than the Palestinians."
+      ],
+      "img_src": "enten-gop-speech-ISRAEL",
+      "source": "Gallup",
+      "source_url": null,
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "69 percent of Republicans say the U.S. should use military force “if Russia got into a serious military conflict with one of its neighboring countries that is our NATO ally.”"
+      ],
+      "img_src": null,
+      "source": "2015 Pew poll",
+      "source_url": "http://www.pewglobal.org/files/2015/06/Pew-Research-Center-Russia-Ukraine-Report-FINAL-June-10-2015.pdf",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "This is wonkish talk, but you need a little of that just to flash your credentials."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Declaring an intention to speak and act with clarity or resoluteness is a nice way to criticize the present occupier of the office (in this case President Obama) — thus capitalizing on people’s suspicions that he isn’t decisive or doesn’t take principled stands — without obligating yourself to pursue specific policies once in office."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Among Republicans, 17 percent say China is an ally, 39 percent say it’s friendly but not an ally, 23 percent say China is unfriendly and 13 percent say it’s an enemy."
+      ],
+      "img_src": null,
+      "source": "2015 CBS News poll",
+      "source_url": "https://www.google.com/url?q=http://www.cbsnews.com/news/how-do-americans-view-israel/&sa=D&ust=1447355262373000&usg=AFQjCNEHVEtxg2yEYhw8xH6B2LkkrEsqCg",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Here we have a legitimate criticism of the president’s incoherent foreign policy, seemingly contrasted with a clearer, more decisive alternative. Only the alternative is actually a statement of the obvious: We have to accept legitimate refugees but not terrorists."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "73 percent of Republicans would support sending ground troops to fight the Islamic State group in Iraq and Syria."
+      ],
+      "img_src": null,
+      "source": "Question 96 of a 2015 Quinnipiac poll",
+      "source_url": "http://www.quinnipiac.edu/news-and-events/quinnipiac-university-poll/national/release-detail?ReleaseID=2275",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "67 percent of Republicans disapproved of the U.S. decision to increase the number of Syrian refugees it accepts."
+      ],
+      "img_src": null,
+      "source": "September 2015 Pew poll",
+      "source_url": "http://www.people-press.org/files/2015/09/09-29-2015-European-migrants-release.pdf",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Saying you’re certain what the wrong policy is — namely, the policy of those presently in charge — is a reliable way to sound clear and confident when you have no idea what the right course is."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "“Lawbreakers” could mean anyone in violation of immigration law. But it doesn’t have to mean that. It could refer to those who’ve committed criminal violations. Hence there’s a little room left for proposing a way for illegal immigrants to gain citizenship."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "63 percent of Republicans say “immigrants today are a burden on our country because they take our jobs, housing and health care.”"
+      ],
+      "img_src": null,
+      "source": "2015 Pew poll",
+      "source_url": "http://www.pewresearch.org/fact-tank/2015/08/24/what-americans-want-to-do-about-illegal-immigration/",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "58 percent of Republicans say giving a path to legal status for those who came to the U.S. illegally is “like a reward for doing something wrong.”"
+      ],
+      "img_src": null,
+      "source": "2015 Pew poll",
+      "source_url": "http://www.people-press.org/files/2015/06/6-4-15-Immigration-release.pdf",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "We have quickly shifted the question from the tangled topic of immigration policy (border enforcement? deportation? some form of amnesty?) to Barack Obama’s imperial presidency."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Yes, after six years it’s still misnamed. A Republican politician speaking to a Republican audience just can’t call it the Affordable Care Act without some distancing modifier."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "“Reverse” doesn’t necessarily imply repealing the ACA entirely, but you could reasonably interpret it that way."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "60 percent of Republicans would like lawmakers to repeal the ACA entirely, and 26 percent favor repealing parts of the law."
+      ],
+      "img_src": null,
+      "source": "2015 Fox News poll",
+      "source_url": "http://www.foxnews.com/politics/interactive/2015/07/20/fox-news-poll-voters-want-supreme-court-justices-on-ballot-christians-feel/",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Remembering isn’t a policy stance. Entreaties to “remember” are usually meant to suggest general dispositions, not specific views on policy questions."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Share of Republicans who say abortion should be illegal in most or all cases."
+      ],
+      "img_src": "enten-gop-speech-ABORTION",
+      "source": "ABC News, Washington Post, Quinnipiac",
+      "source_url": null,
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "In some respects that pro-life movement has been revivified by the exposure of Planned Parenthood’s ghoulish practices. But there is a danger, too. Politicians can easily claim pro-life credentials not by taking definable stances on the issue of abortion itself, but merely by opposing a line item in the federal budget. That’s why, following poll numbers, we go from the hazy language of “moral clarity” and “remembering” to denouncing a single (though admittedly large and powerful) nonprofit organization. What about the legality of abortion? What about Roe v. Wade? No need to get that specific."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "It’s probably unreasonable to promise any meaningful action on same-sex marriage, and a not-insignificant minority of Republicans more or less supports same-sex marriage, though perhaps not the Supreme Court’s decision. But total silence on the question could easily be taken as an implicit endorsement by a substantial minority of GOP primary voters. Best to shift the question to the kind of judicial appointments you’ll make. The idea is to signal ideological and cultural kinship, not necessarily to announce policy proposals."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "Share of Republicans who have a great deal of confidence in the Supreme Court."
+      ],
+      "img_src": "enten-gop-speech-SCOTUS",
+      "source": "General Social Survey",
+      "source_url": null,
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "63 percent of Republicans oppose legal recognition of same-sex marriage."
+      ],
+      "img_src": null,
+      "source": "2015 Pew poll",
+      "source_url": "http://www.people-press.org/2015/06/08/same-sex-marriage-detailed-tables/",
+      "type": "Data Point",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    },
+    {
+      "text": [
+        "It wouldn’t be a modern American campaign without a declaration of what the election is really “about.” Usually, as here, it’s not “about” personalities but “about” principles or “about” the American people."
+      ],
+      "img_src": null,
+      "source": null,
+      "source_url": null,
+      "type": "Barton Says",
+      "nearby": [-1, 1],
+      "on_by_default": false
+    }
+  ]
+}

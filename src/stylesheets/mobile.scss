@@ -1,0 +1,193 @@
+/**
+*
+* Mobile
+*
+**/
+
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 1023px) {
+  .desktop {
+    display: none;
+  }
+  .basic-label {
+    line-height: 12px;
+  }
+  .side-buttons {
+    margin-top: 40px;
+  }
+  #tweet-out, #download, #shuffle {
+    .basic-label {
+      width: auto;
+      margin-top: 3px;
+    }
+  }
+  #link-out {
+    textarea {
+      width: 90px;
+    }
+    .basic-label {
+      width: auto;
+      margin-top: 5px;
+    }
+  }
+  #download-link .download-svg, #tweet-link .tweet-out-svg { width: 17px; }
+  #link-out .link-out-svg { width: 20px; }
+  #shuffle .shuffle-svg { width: 15px; }
+
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) {
+  .small {
+    display: none;
+  }
+}
+
+/* Everything but mobile */
+@media only screen and (min-width: 480px) {
+
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  h1 {
+    line-height: 1em;
+  }
+  .big {
+    display: none;
+  }
+  .three.columns.omega {
+    margin-left: 0;
+  }
+  #chart .axis text {
+    font-size: 12px;
+  }
+  #chart {
+    height: 300px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+    margin-right: 0;
+  }
+  .cta-button-standalone:last-of-type {
+    margin-bottom: 0;
+  }
+  .chart-wrap {
+    flex-wrap: wrap;
+  }
+  .cta-wrap {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .cta-button {
+    width: calc(50% - 10px);
+    &:nth-child(odd) {
+      margin-right: 5px;
+    }
+    &:nth-child(even) {
+      margin-left: 5px;
+    }
+    &:nth-child(n+3) {
+      margin-bottom: 0;
+    }
+  }
+  #share {
+    margin-top: 10px;
+    height: auto;
+    background-color: white;
+    width: 100%;
+    .side-buttons {
+      float:left;
+      width: 48%;
+      height: 40px;
+      float: left;
+      background-color: $backgroundGray;
+      margin-top: 0;
+      position: relative;
+    }
+    #tweet-out {
+      margin-right: 2%;
+      margin-left: 0;
+    }
+    #link-out {
+      margin-left: 2%;
+      .clearfix {
+        display: none;
+      }
+      .link-out-svg {
+        padding-top: 2px;
+      }
+      textarea {
+        float: left;
+        margin-left: 5px;
+        margin-top: 0;
+        width: 150px;
+      }
+    }
+    #tweet-out, #link-out {
+      .clearfix {
+        display: none;
+      }
+      .inner {
+        position: absolute;
+        top: 50%;
+        margin: -5% 0 0 0;
+        left: 50%;
+      }
+    }
+    #tweet-out .inner {
+      margin-left: -40px;
+    }
+    #link-out .inner {
+      margin-left: -95px;
+      margin-top: -6%;
+    }
+  }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  #top-buttons {
+    .shuffle-inner {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 70%;
+      margin: -7% 0 0 -30%;
+    }
+    #shuffle-mobile {
+      background-color: $backgroundGray;
+      margin-left: 2%;
+      display: table;
+      position: relative;
+    }
+  }
+  #share {
+    #link-out {
+      textarea {
+        width: 90px;
+      }
+      .inner {
+        margin: -8% 0 0 -67px;
+      }
+    }
+    #tweet-out {
+      .inner {
+        margin: -7% 0 0 -40px;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 1023px) {
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+   
+}

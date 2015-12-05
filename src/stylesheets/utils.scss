@@ -1,0 +1,44 @@
+/**
+*
+* Utils
+*
+**/
+
+
+/*==========  MIXINS  ==========*/
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin offset-text {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@mixin input-reset {
+	display: inline-block;
+	margin: 0;
+	border: 0;
+	white-space: normal;
+
+	&:focus {
+	outline: 0;
+	}
+
+	&[type=checkbox],
+	&[type=radio] {
+	  width: 13px;
+	  height: 13px;
+	}
+
+	/* Make webkit render the search input like a normal text field */
+	&[type=search] {
+	  -webkit-appearance: textfield;
+	  -webkit-box-sizing: content-box;
+	}
+}

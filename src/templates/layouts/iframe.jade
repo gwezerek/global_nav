@@ -1,0 +1,19 @@
+include ../mixins/assets
+
+doctype html
+html(lang="en")
+  head
+    title
+      | FiveThirtyEight
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    meta(http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE")
+    link(rel="shortcut icon" href="#{STATIC_URL}/images/favicon.ico")
+    mixin css('app.css')
+    base(target='_parent')
+    include ../includes/ga.jade
+  body
+
+    block content
+    block credits
+    mixin js('common.js')
+    mixin js('bundle.js')
