@@ -235,6 +235,13 @@
   }
 }
 
+.global__header__nav__item--mobile {
+  display: block;
+  @media (min-width: $medium) {
+    display: none;
+  }
+}
+
 .global__header__nav__link {
   font-family: $atlas;
   font-weight: 700;
