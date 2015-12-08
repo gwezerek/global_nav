@@ -81,7 +81,7 @@
     max-width: 30rem;
   }
   .global__header__logo__link--fte {
-    display: none;
+    background-image: url('../images/fox_head_only.png');
   }
   .global__header__search {
     width: 100%;
@@ -94,6 +94,7 @@
     justify-content: space-between;
     .global__header__logo__link--fte {
       display: block;
+      background-image: url('../images/logo.png');
     }
   }
 }
@@ -101,6 +102,10 @@
 .global__header__logo__link--fte {
   width: 20rem;
   margin-right: $baseSpace * 2;
+  background-image: url('../images/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: center;
   @media (min-width: $medium) {
     width: 25rem;
   }
@@ -135,6 +140,7 @@
   -webkit-appearance: none;
   padding: $baseSpace / 2;
   display: none;
+  min-width: 15rem;
 }
 
 .global__header__search__field--is--open {
