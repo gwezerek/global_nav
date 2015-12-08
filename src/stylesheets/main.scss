@@ -40,7 +40,10 @@
 
 .global__header {
   background: rgb(240,240,240);
-  padding: $baseSpace * 2;
+  padding: $baseSpace $baseSpace * 2 $baseSpace * 2;
+  @media (min-width: $large) {
+    padding: $baseSpace * 2;
+  }
 }
 
 .global__header__wrap {
@@ -53,12 +56,13 @@
 .global__header__ad--banner {
   background: $lightGray;
   margin: 0 auto;
-  margin-bottom: $baseSpace * 3;
+  margin-bottom: $baseSpace * 2;
   height: 5rem;
   width: 320px;
   @media (min-width: $large) {
     height: 90px;
     width: 728px;
+    margin-bottom: $baseSpace * 4;
   }
 }
 
