@@ -26,6 +26,7 @@ var primaryWrap = $('#js--global__header__wrap--primary');
 btnSearch.on('click', function(event) {
 	primaryWrap.toggleClass('global__header__wrap--primary--is--searching');
 	$(this).toggleClass('btn--ui--is--on');
+	$('#js--global__header__search__field').focus();
 });
 
 btnMenu.on('click', function() {
