@@ -7,7 +7,10 @@
 // Layout 
 
 .body__global__nav--is--open {
-  overflow-y: hidden;
+  overflow: hidden;
+  @media (min-width: $medium) {
+    overflow: scroll;
+  }
 }
 
 .btn {
@@ -229,6 +232,11 @@
   .global__header__nav {
     display: flex;
     height: 100vh;
+    transition: height 0.3s cubic-bezier(0.155, 0.875, 0.610, 0.995);
+    @media (min-width: $medium) {
+      height: auto;
+      display: flex;
+    }
   }
 
   .global__header__nav__item {
@@ -240,7 +248,7 @@
 .global__header__nav {
   margin-right: $baseSpace;
   height: 0;
-  transition: height 0.5s cubic-bezier(0.155, 0.875, 0.610, 0.995);
+  transition-duration: 0;
   @media (min-width: $medium) {
     height: auto;
     display: flex;
