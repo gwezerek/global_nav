@@ -210,7 +210,8 @@
   flex-wrap: nowrap;
 
   opacity: 0;
-  transition: visibility 0s, opacity 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  transition: opacity 0.3s ease-in-out;
+  transition-delay: 0.2s;
   visibility: hidden;
 
   @media (min-width: $medium) {
@@ -239,7 +240,7 @@
 .global__header__nav {
   margin-right: $baseSpace;
   height: 0;
-  transition: height 0.2s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  transition: height 0.5s cubic-bezier(0.155, 0.875, 0.610, 0.995);
   @media (min-width: $medium) {
     height: auto;
     display: flex;
