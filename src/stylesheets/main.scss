@@ -275,7 +275,6 @@
 
 .global__header__nav__link {
   font-family: $atlas;
-  font-weight: 700;
 }
 
 .global__header__updated {
@@ -316,6 +315,9 @@ a.link--ui {
     &:after {
       opacity: 1;
     }
+  }
+  &:target {
+    font-weight: 700;
   }
 }
 
