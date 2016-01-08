@@ -4,7 +4,11 @@
 *
 **/
 
-// Layout 
+// Layout
+
+body {
+  background: $lightestGray;
+}
 
 .body__global__nav--is--open {
   overflow: hidden;
@@ -26,8 +30,9 @@
   padding: $baseSpace / 2;
   cursor: pointer;
   transition: 0.2s background ease-in-out;
-  &:hover, 
-  &:active {
+  &:hover,
+  &:active, 
+  &:focus {
     background: $black;
     color: $white;
   }
@@ -42,10 +47,24 @@
 // Header
 
 .global__header {
-  background: rgb(240,240,240);
-  padding: $baseSpace $baseSpace * 2 $baseSpace * 2;
+  padding: $baseSpace $baseSpace * 2 0;
+  background: $white;
   @media (min-width: $large) {
-    padding: $baseSpace * 2;
+    padding: $baseSpace * 2 $baseSpace * 2 0;
+  }
+}
+
+.global__header__navskip {
+  position: fixed;
+  top: -100px;
+  left: 0;
+  background: rgb(255,98,0);
+  color: white;
+  padding: $baseSpace;
+  transition: 0.2s top ease-in-out;
+  &:focus {
+    top: 0;
+    color: white;
   }
 }
 
@@ -72,7 +91,7 @@
 .global__header__wrap--primary {
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid $black;
+  border-bottom: 2px solid $black;
   width: 100%;
   padding-bottom: $baseSpace;
   @media (min-width: $medium) {
@@ -148,6 +167,7 @@
   padding: $baseSpace / 2;
   display: none;
   min-width: 15rem;
+  border: 1px solid $black;
 }
 
 .global__header__search__field--is--open {
@@ -194,7 +214,7 @@
 
 .global__header__nav__btn--is--open {
   color: transparent;
-  &:hover, 
+  &:hover,
   &:active {
     color: transparent;
   }
@@ -252,7 +272,7 @@
   @media (min-width: $medium) {
     height: auto;
     display: flex;
-  } 
+  }
 }
 
 .global__header__nav__item  {

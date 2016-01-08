@@ -1,17 +1,17 @@
 mixin css(filename)
-  if development
+  if bog
     link(rel='stylesheet', href='#{STATIC_URL}/css/#{filename}')
   else
-    link(rel='stylesheet', href='#{STATIC_URL}/css/#{filename}?v=#{cache_bust["public/css/" + filename]}')
+    link(rel='stylesheet', href='css/#{filename}?v=#{cache_bust["public/css/" + filename]}')
 
 mixin js(filename)
-  if development
+  if bog
     script(src='#{STATIC_URL}/js/#{filename}', defer)
   else
-    script(src='#{STATIC_URL}/js/#{filename}?v=#{cache_bust["public/js/" + filename]}', defer)
+    script(src='js/#{filename}?v=#{cache_bust["public/js/" + filename]}', defer)
 
 mixin img(filename, alt)
-    if development
+    if bog
         img(src='#{STATIC_URL}/images/#{filename}' alt='#{alt}')
     else
-        img(src='#{STATIC_URL}/images/#{filename}?v=#{cache_bust["public/images/" + filename]}' alt='#{alt}')
+        img(src='images/#{filename}?v=#{cache_bust["public/images/" + filename]}' alt='#{alt}')
