@@ -95,7 +95,7 @@ body {
   width: 100%;
   padding-bottom: $baseSpace;
   @media (min-width: $medium) {
-    padding-bottom: $baseSpace / 2;
+    padding-bottom: $baseSpace;
     margin-bottom: $baseSpace;
   }
 }
@@ -133,7 +133,7 @@ body {
   background-repeat: no-repeat;
   background-position-y: center;
   @media (min-width: $medium) {
-    width: 25rem;
+    width: 22.5rem;
   }
 }
 
@@ -149,9 +149,6 @@ body {
 .global__header__wrap--primary--sub {
   display: flex;
   align-items: center;
-  @media (min-width: $medium) {
-    padding-bottom: $baseSpace;
-  }
 }
 
 .global__header__search {
